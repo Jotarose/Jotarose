@@ -1,4 +1,4 @@
-### Hi, I'm Juan Arabaolaza 👋🏽 👨🏽‍💻
+# Hi, I'm Juan Arabaolaza 👋🏽 👨🏽‍💻
 
 A Telecommunications Engineering (Telematics) passionate about technology, innovation, and continuous learning. I enjoy exploring Cybersecurity, DevOps, Python, Software Development, and Blockchain.
 I'm eager to contribute, learn, and grow in real-world projects.
